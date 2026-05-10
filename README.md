@@ -45,7 +45,7 @@ The dashboard includes multiple analytical pages covering:
 ---
 
 ## 🏭 Production Dashboard
-![Production Dashboard](images/production-dashboard.jpeg)
+![Production Dashboard(https://github.com/ahmedmaher99/-ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Production%20Dashboard.jpeg)
 
 ---
 
