@@ -49,10 +49,6 @@ The dashboard includes multiple analytical pages covering:
 
 ---
 
-## 💰 Financial Dashboard
-![Financial Dashboard](images/financial-dashboard.jpeg)
-
----
 
 # 🚀 Features
 
@@ -61,8 +57,6 @@ The dashboard includes multiple analytical pages covering:
 ✔️ Multi-page Power BI dashboard
 
 ✔️ Dynamic KPI monitoring
-
-✔️ Financial performance analysis
 
 ✔️ Production efficiency tracking
 
@@ -78,12 +72,14 @@ The dashboard includes multiple analytical pages covering:
 
 # 🛠️ Tools & Technologies
 
-- 📊 Power BI
-- 📈 Data Visualization
-- 📂 Data Modeling
-- 📉 KPI Analytics
-- ⛽ Oil & Gas Analytics
-- 🎨 Dashboard UI/UX Design
+-  Power BI
+-  PostgreSQL
+-  Data Visualization
+-  Data Modeling
+-  ETL
+-  KPI Analytics
+-  Oil & Gas Analytics
+-  Dashboard UI/UX Design
 
 ---
 
@@ -94,16 +90,14 @@ ADNOC-Data-Analysis-Dashboard/
 │
 ├── ADNOC_Dashboard.pbix
 ├── README.md
-└── images/
-    ├── home-dashboard.jpeg
-    ├── sales-dashboard.jpeg
-    ├── production-dashboard.jpeg
-    └── financial-dashboard.jpeg
+├── home-dashboard.jpeg
+├── sales-dashboard.jpeg
+├── production-dashboard.jpeg
 ```
 
 ---
 
-# 📈 Business Value
+#  Business Value
 
 This dashboard demonstrates how operational and financial data in the oil & gas industry can be transformed into actionable insights using business intelligence and advanced data visualization techniques.
 
@@ -111,25 +105,13 @@ The project showcases:
 
 - Analytical thinking
 - KPI-focused reporting
-- Production and financial analysis
 - Dashboard storytelling
 - Power BI development skills
 - Professional dashboard design
 
 ---
 
-# 💡 What I Learned
 
-Through this project, I improved my skills in:
-
-- Building interactive Power BI dashboards
-- Designing professional industry reports
-- Creating KPI-focused analytics
-- Improving dashboard usability and UI/UX
-- Structuring multi-page BI solutions
-- Presenting insights clearly and effectively
-
----
 
 # 📥 How to Use
 
@@ -141,10 +123,9 @@ Through this project, I improved my skills in:
 
 # 🔗 Connect With Me
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 📧 Email: YOUR_EMAIL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
-
+- 💼 LinkedIn: www.linkedin.com/in/ahmed-maher99
+- 📧 Email: ahmed.maher.w515@gmail.com
+- 🌐 Portfolio: Updating
 ---
 
 # ⭐ Support
