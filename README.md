@@ -1,4 +1,4 @@
-# ADNOC Data Analysis Dashboard | Power BI
+# •	ADNOC Oil and Gas Performance Dashboard (The Data Not Real) | Power BI
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Oil & Gas](https://img.shields.io/badge/Oil%20%26%20Gas-Analytics-blue)
