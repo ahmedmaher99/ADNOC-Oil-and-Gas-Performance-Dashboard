@@ -4,7 +4,7 @@
 ![Oil & Gas](https://img.shields.io/badge/Oil%20%26%20Gas-Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-## 📌 Project Overview
+##  Project Overview
 
 An interactive **ADNOC Data Analysis Dashboard** built with **Power BI** to analyze oil & gas operations, production efficiency, financial performance, and sales analytics through modern and dynamic visualizations.
 
@@ -12,20 +12,21 @@ This project transforms operational and financial data into actionable business 
 
 The dashboard includes multiple analytical pages covering:
 
-- ⛽ Sales performance analytics
-- 🏭 Production monitoring
-- 💰 Financial insights & profitability
-- 📈 Asset utilization and reliability
-- 📊 KPI tracking and trend analysis
-- 🛢️ Oil & gas production metrics
-- 📉 Revenue and EBITDA analysis
+-  Sales performance analytics
+-  Production monitoring
+-  Financial insights & profitability
+-  Asset utilization and reliability
+-  KPI tracking and trend analysis
+-  Oil & gas production metrics
+-  Revenue and EBITDA analysis
+  
 # ⚠️ Disclaimer
 
 **Note:** The data used in this project is **not real company data**.  
 All datasets, KPIs, financial figures, and business metrics were created and used **for training, educational, and portfolio purposes only**.
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Monitor operational efficiency
 - Analyze production and sales performance
@@ -37,23 +38,23 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 #  Dashboard Preview
 
-## 🏠 Home Dashboard
+##  Home Dashboard
 ![Home Dashboard](https://github.com/ahmedmaher99/-ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Home.jpeg)
 
 ---
 
-## 💵 Sales Dashboard
+##  Sales Dashboard
 ![Sales Dashboard](https://github.com/ahmedmaher99/-ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Sales%20Dashboard.jpeg)
 
 ---
 
-## 🏭 Production Dashboard
+##  Production Dashboard
 ![Production Dashboard](https://github.com/ahmedmaher99/-ADNOC-Oil-and-Gas-Performance-Dashboard/blob/main/Production%20Dashboard.jpeg)
 
 ---
 
 
-# 🚀 Features
+#  Features
 
 ✔️ Interactive oil & gas analytics
 
@@ -73,7 +74,7 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 -  Power BI
 -  PostgreSQL
@@ -116,7 +117,7 @@ The project showcases:
 
 
 
-# 📥 How to Use
+#  How to Use
 
 1. Clone or download this repository.
 2. Open the `.pbix` file using **Power BI Desktop**.
